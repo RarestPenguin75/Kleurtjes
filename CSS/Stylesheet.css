@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: Black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#Tabelmenu{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+#Sporttabel{
+        text-align: center;
+        background-color: whitesmoke;
+        color: black;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        border-collapse: collapse;
+}
+#Header{
+    padding: 20px;
+    text-align: center;
+    background-color: azure;
+    color: black;
+    font-size: 15px;
+}
+#td{
+    text-align: center;
+}
+#th{
+    border: 1px solid;
+}
+#tabelkop{
+    border: 3px solid;
+}
+#Zwemmen{
+    text-align: center;
+    background-color: dodgerblue;
+    color: black;
+}
+#MMA{
+    text-align: center;
+    background-color:firebrick;
+    color: Black;
+}
+#Schoonspringen{
+    text-align: center;
+    background-color: paleturquoise;
+    color: black;
+}
+#Karate{
+    text-align: center;
+    background-color: darkred;
+    color: black;
+}
+#Waterpolo{
+    text-align: center;
+    background-color: skyblue;
+    color: black;
+}
+#BJJ{
+    text-align: center;
+    background-color: darksalmon;
+    color: black;
+}
+#Roeien{
+    text-align: center;
+    background-color: powderblue;
+    color: black;
+}
+#Judo{
+    text-align: center;
+    background-color: lightsalmon;
+    color: black;
+}
+#FotoZwemmen{
+    background-color: white;
+}
+#FotoMMA{
+    background-color: white;
+}
+#FotoSchoonspringen{
+    background-color: white;
+}
+#FotoKarate{
+    background-color: white;
+}
+#FotoWaterpolo{
+    background-color: white;
+}
+#FotoBJJ{
+    background-color: white;
+}
+#FotoRoeien{
+    background-color: white;
+}
+#FotoJudo{
+    background-color: white;
+}
+#Footer{
+    padding: 20px;
+    text-align: center;
+    background-color: azure;
+    color: black;
+    font-size: 15px;
+}
